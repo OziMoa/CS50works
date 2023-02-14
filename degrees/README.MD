@@ -51,6 +51,8 @@ The shortest_path function, however, is left unimplemented. That’s where you c
 
 
 Specification
+
+
 An automated tool assists the staff in enforcing the constraints in the below specification. Your submission will fail if any of these are not handled properly, if you import modules other than those explicitly allowed, or if you modify functions other than as permitted.
 
 Complete the implementation of the shortest_path function such that it returns the shortest path from the person with id source to the person with the id target.
